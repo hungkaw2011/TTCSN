@@ -6,5 +6,5 @@
    3. Trần Thị Tuyết</br>
    4. Bùi Quang Chung</p>
 
-# E-commerce Online shopping men clothes - ASP.NET MVC 5, Entity Framework
+# ASP.NET MVC 5, Entity Framework
 
